@@ -1,0 +1,4 @@
+User-agent: *
+
+Sitemap: http://vlco.de/sitemap.xml
+Host: vlco.de
